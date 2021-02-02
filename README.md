@@ -41,7 +41,8 @@ Para probar el programa desplegado en heroku
 seguir el siguiente link:  
 [Calculadora - Jose Gutierrez Marin](https://pure-woodland-27738.herokuapp.com/calculadora)
 # CircleCI
-[![CircleCI]https://circleci.com/gh/circleci/circleci-docs.svg?style=svg](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/AREP-HEROKU-LAB02)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/JoseGutierrezMairn/AREP-HEROKU-LAB02)  
+
 # Desarrollo  
 Construido con:
 * [Maven](https://maven.apache.org/)
